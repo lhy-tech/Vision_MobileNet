@@ -1,4 +1,4 @@
-# Vision_MobileNet
+# 딥러닝 모델 비전인식(Vision_MobileNet)
 tensorflow_MobileNet_v2
 
 동영상 데이터를 분석해 스포츠 종목을 예측하는 딥러닝 모델입니다.
